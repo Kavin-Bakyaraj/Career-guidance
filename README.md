@@ -1,4 +1,4 @@
-NextStep AI: Career Progression Platform
+##NextStep AI: Career Progression Platform
 
 ## Project Overview
 Career Compass is a comprehensive tech career guidance platform built with React and Django, designed to help users navigate their career paths in the Indian tech industry. The platform offers personalized roadmaps, job matching, resume analysis, learning resources, and industry insights.
